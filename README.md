@@ -1,21 +1,20 @@
 # websecurity-beginner-path
 
 
-First start with
+👇👇👇Follow this path if you want to get started with Web Security👇👇👇
 
-2
+[XSS](https://portswigger.net/web-security/all-labs#cross-site-scripting)
 
-2
-2
+[SQL injection]([https](https://portswigger.net/web-security/all-labs#sql-injection))
 
-2
-2
+[OS command injection]([https](https://portswigger.net/web-security/all-labs#os-command-injection))
 
-2
+[Broken Access Control](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
 
+[Directory Traversal](https://portswigger.net/web-security/all-labs#path-traversal)
 
-2
+[File Upload](https://portswigger.net/web-security/all-labs#file-upload-vulnerabilities)
 
+[CSRF](https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf)
 
-
-2
+[XXE Injection](https://portswigger.net/web-security/all-labs#xml-external-entity-xxe-injection)
