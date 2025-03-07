@@ -5,9 +5,9 @@
 
 [XSS](https://portswigger.net/web-security/all-labs#cross-site-scripting)
 
-[SQL injection]([https](https://portswigger.net/web-security/all-labs#sql-injection))
+[SQL injection](https://portswigger.net/web-security/all-labs#sql-injection)
 
-[OS command injection]([https](https://portswigger.net/web-security/all-labs#os-command-injection))
+[OS command injection](https://portswigger.net/web-security/all-labs#os-command-injection)
 
 [Broken Access Control](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
 
